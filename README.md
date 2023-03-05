@@ -1,5 +1,5 @@
 # OIBSIP-TASK4
-# EMAIL SPAM DETECTION WITH MACHINE LEARNING - This is a Project completed during my Data Science Internship with OASIS INFOBYTE
+EMAIL SPAM DETECTION WITH MACHINE LEARNING - This is a Project completed during my Data Science Internship with OASIS INFOBYTE
 
 The data set can be downloaded from Kaggle Link : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
